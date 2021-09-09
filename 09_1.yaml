@@ -6,3 +6,6 @@ my:
        - eggs
        - sugar
        - flour
+      cream:
+        - sugar
+        - milk
