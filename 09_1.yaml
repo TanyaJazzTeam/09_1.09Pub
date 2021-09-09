@@ -1,9 +1,8 @@
-girls: [Kate1, Kate2, Kate3]
-man: 
-    - Don
-    - Dik
-    - Der
-girls:
-    Kate1:
-        - milk
-        - juice
+#YAML
+my:
+    cake:
+      composition: [dough, cream]
+      dough:
+       - eggs
+       - sugar
+       - flour
